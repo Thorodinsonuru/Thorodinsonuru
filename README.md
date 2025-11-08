@@ -1,5 +1,10 @@
 # ⚡️ THOR ODINSON — GOD OF THUNDER
 
+![Realm](https://img.shields.io/badge/Realm-Asgard-blue?style=for-the-badge&logo=nordvpn)
+![Weapon](https://img.shields.io/badge/Weapons-Mjölnir_⚒️_&_Stormbreaker_⚔️-brightgreen?style=for-the-badge)
+![Role](https://img.shields.io/badge/Title-God_of_Thunder-yellow?style=for-the-badge)
+![Alignment](https://img.shields.io/badge/Alignment-Protector_of_the_Nine_Realms-lightblue?style=for-the-badge)
+
 > “Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.” — *Odin All-Father*
 
 ---
@@ -17,10 +22,8 @@ heir of Asgard, defender of realms, and the living storm.
 ## 🌩️ Overview
 
 **Thor Odinson**, the **God of Thunder**, stands as the mightiest warrior of **Asgard** and protector of the **Nine Realms**.  
-Son of **Odin**, the All-Father, and **Frigga**, Queen of Asgard, Thor is both warrior and prince, god and guardian.  
-
-With the enchanted hammer **Mjölnir** and later the divine axe **Stormbreaker**,  
-he commands the storms and defends the balance of all worlds connected by **Yggdrasil**, the World Tree.
+Son of **Odin**, the All-Father, and **Frigga**, Queen of Asgard —  
+Thor is both warrior and guardian, wielding the divine weapons **Mjölnir** and **Stormbreaker** to command the storm and preserve the balance of worlds.
 
 ---
 
@@ -33,24 +36,26 @@ he commands the storms and defends the balance of all worlds connected by **Yggd
 | **Realm** | Asgard |
 | **Parentage** | Odin & Frigga |
 | **Species** | Asgardian Deity |
-| **Weapon** | Mjölnir & Stormbreaker |
+| **Weapons** | Mjölnir ⚒️ & Stormbreaker ⚔️ |
 | **Symbol** | Hammer and Lightning |
-| **Protector Of** | Midgard and the Nine Realms |
+| **Protector Of** | Midgard & The Nine Realms |
 
 ---
 
 ## 🔨 Mjölnir — The Hammer of Worthiness
 
+![Mjölnir](https://img.shields.io/badge/Weapon-Mjölnir-grey?style=for-the-badge)
+
 Forged in the heart of a dying star by the dwarves of **Nidavellir**,  
 **Mjölnir** is the sacred hammer of Thor — bound by Odin’s enchantment:  
 > “Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.”
 
-### Powers of Mjölnir:
-- **Command over Thunder and Lightning** ⚡  
-- **Flight through Storms and the Cosmos** 🌪️  
-- **Barrier and Energy Manipulation** 🔆  
-- **Dimensional Travel across Realms** 🌀  
-- **Symbol of Worthiness** — responds only to a pure heart 🔨  
+### Powers of Mjölnir
+- ⚡ Command over Thunder and Lightning  
+- 🌪️ Flight through Storms and the Cosmos  
+- 🔆 Barrier and Energy Manipulation  
+- 🌀 Dimensional Travel across Realms  
+- 🔨 Symbol of Worthiness — responds only to a pure heart  
 
 > Mjölnir is not the source of Thor’s power, but the reflection of his worth.
 
@@ -58,50 +63,51 @@ Forged in the heart of a dying star by the dwarves of **Nidavellir**,
 
 ## ⚔️ Stormbreaker — The Axe of the Gods
 
-When Mjölnir was lost and the skies cried out for their champion,  
-a new weapon was born — **Stormbreaker**, the Axe of Kings.  
+![Stormbreaker](https://img.shields.io/badge/Weapon-Stormbreaker-orange?style=for-the-badge)
 
-Forged by **Eitri**, the Dwarf King, from **Uru metal** in the furnaces of **Nidavellir**,  
-Stormbreaker was crafted to summon the **Bifrost** and channel divine energy beyond imagination.
+When Mjölnir was lost and the heavens cried for their champion,  
+**Stormbreaker** was forged — the **Axe of Kings**, born from **Uru metal** in the furnaces of **Nidavellir** by **Eitri**, King of the Dwarves.  
+Its purpose: to summon the **Bifrost** and channel divine energy beyond imagination.
 
-### Powers of Stormbreaker:
-- **Summons the Bifrost** — travels across realms 🌌  
-- **Channels Divine Power** — controls vast cosmic energy ⚡  
-- **Amplifies Thor’s Storm Force** — enhances lightning mastery 🌩️  
-- **Dual Weapon Form** — axe and hammer combined ⚔️  
-- **Bearer of Resolve** — forged for the god who rises again 🔆  
+### Powers of Stormbreaker
+- 🌌 Summons the Bifrost for travel between realms  
+- ⚡ Channels cosmic and divine energy  
+- 🌩️ Amplifies Thor’s thunderous might  
+- ⚔️ Dual-formed axe and hammer  
+- 🔆 Symbol of Rebirth and Leadership  
 
 > “From the heart of a star came the storm’s new edge —  
 > not for the worthy, but for the willing.” ⚡
 
-### Symbolism:
-- **Mjölnir** represents **worthiness and humility**.  
-- **Stormbreaker** represents **rebirth and leadership**.  
+**Symbolism:**  
+- *Mjölnir* = Worthiness and Humility  
+- *Stormbreaker* = Rebirth and Kingship  
 
-Together, they form the balance between the **warrior’s strength** and the **king’s heart**.
+Together, they balance **strength and spirit**, **power and purpose**.
 
 ---
 
 ## 💪 Powers & Abilities
 
+![Power Level](https://img.shields.io/badge/Power_Level-Godlike-red?style=for-the-badge)
+
 ### ⚡ Divine Might
-Thor’s physical strength is unmatched among Asgardians —  
-he can shatter mountains, battle giants, and withstand cosmic forces.
+Thor’s strength rivals mountains and titans — his blows shake worlds.
 
 ### 🌩️ Storm Command
-The thunder answers his call. Thor commands lightning, wind, and rain with divine precision.
+He commands lightning, thunder, and wind as extensions of his will.
 
-### 🔆 Immortality & Endurance
-As an Asgardian god, Thor is immune to disease, aging, and mortal wounds. His life force burns with the **Odinforce**.
+### 🔆 Immortality
+An Asgardian deity with eternal vitality and divine endurance.
 
-### 🧠 Wisdom of a Warrior
-Trained by Odin and tempered by countless battles, Thor wields both brute power and strategic intellect.
+### 🧠 Wisdom of Battle
+Trained by Odin and tempered by war, Thor fights with might and mind alike.
 
 ---
 
 ## 🪐 The Nine Realms
 
-Guarded by Thor and bound by **Yggdrasil**, the World Tree:
+![Nine Realms](https://img.shields.io/badge/Guarded_Realms-9-purple?style=for-the-badge)
 
 1. **Asgard** – Realm of the Gods  
 2. **Midgard** – Realm of Humans  
@@ -119,32 +125,36 @@ Guarded by Thor and bound by **Yggdrasil**, the World Tree:
 
 ## 🧭 Allies of Asgard
 
-- **Odin** – All-Father and ruler of the gods  
-- **Frigga** – Queen of Asgard, goddess of wisdom  
+![Allies](https://img.shields.io/badge/Allies-Asgardians_&_Warriors_Three-green?style=for-the-badge)
+
+- **Odin** – All-Father of Asgard  
+- **Frigga** – Queen and Goddess of Wisdom  
 - **Heimdall** – Guardian of the Bifrost  
-- **Balder the Brave** – Thor’s noble half-brother  
-- **Sif** – Fearless warrior and companion  
+- **Sif** – Fearless warrior and Thor’s companion  
 - **The Warriors Three** – Fandral, Hogun, and Volstagg  
+- **Balder the Brave** – Noble brother-in-arms  
 
 ---
 
 ## 🩸 Foes of Thunder
 
-- **Loki** – The Trickster God, brother of chaos  
+![Enemies](https://img.shields.io/badge/Enemies-Gods_and_Giants-red?style=for-the-badge)
+
+- **Loki** – The Trickster God  
 - **Hela** – Goddess of Death  
-- **Surtur** – Fire giant destined to bring Ragnarok  
-- **Jörmungandr** – The World Serpent, Thor’s fated nemesis  
-- **Frost Giants** – Ancient enemies of Asgard  
+- **Surtur** – Flame Demon of Muspelheim  
+- **Jörmungandr** – The World Serpent  
+- **Frost Giants** – Ancient foes of Asgard  
 
 ---
 
 ## 🔱 Symbolism & Legacy
 
 Thor embodies **valor, balance, and divine justice**.  
-He stands between **chaos and creation**, a god whose strength is matched only by his heart.
+He stands between **chaos and creation**, wielding the storm not as a curse, but as a **promise**.  
 
-Where lightning strikes, his oath echoes:  
-**to protect the innocent, to honor his lineage, and to face every storm unbroken.**
+Where lightning strikes, Thor’s oath endures —  
+**to protect, to persevere, and to rise unbroken.**
 
 > “He is not the god of destruction — he is the storm that protects.”
 
@@ -153,8 +163,8 @@ Where lightning strikes, his oath echoes:
 ## ⚡ Famous Sayings
 
 > “For Asgard!”  
-> “I am the son of Odin, the god of thunder!”  
-> “The storm is not my fury — it is my ally.”  
+> “The storm is my ally.”  
+> “I am the son of Odin!”  
 > “When the sky darkens, I rise.”  
 
 ---
@@ -169,7 +179,13 @@ Where lightning strikes, his oath echoes:
 ---
 
 ## 🛡️ Credits
-**Domain:** Asgard — Protector of the Nine Realms  
+
+![Origin](https://img.shields.io/badge/Origin-Norse_Mythology-darkred?style=for-the-badge)
+![Adaptation](https://img.shields.io/badge/Adapted_By-Marvel_Comics-red?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Asgard-blue?style=for-the-badge)
+
+**Character Origin:** Norse Mythology  
+**Adapted By:** Marvel Comics  
 **Weapons:** Mjölnir ⚒️ | Stormbreaker ⚔️  
 **Symbol:** ⚡ Hammer of Thunder  
 
