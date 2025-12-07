@@ -1,6 +1,6 @@
 <!-- Save your banner image as: /assets/banner.png -->
 <p align="center">
-  <img src="assets/banner.png" alt="THOR ODINSON — Banner" style="max-width:100%; height:auto;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f2fff&height=220&section=header&text=Thor%20OdinSon&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">⚡️ THOR ODINSON — GOD OF THUNDER</h1>
